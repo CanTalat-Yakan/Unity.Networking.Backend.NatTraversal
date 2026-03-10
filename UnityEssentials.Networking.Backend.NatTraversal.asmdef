@@ -1,5 +1,5 @@
 {
-    "name": "UnityEssentials.Networking.Backend.NATTraversal",
+    "name": "UnityEssentials.Networking.Backend.NatTraversal",
     "rootNamespace": "UnityEssentials",
     "references": [],
     "includePlatforms": [],

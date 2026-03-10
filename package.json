@@ -1,7 +1,7 @@
 {
   "name": "com.unityessentials.networking.backend.nattraversal",
-  "version": "1.0.2",
-  "displayName": "Networking Backend NATTraversal",
+  "version": "1.0.3",
+  "displayName": "Networking Backend NatTraversal",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
